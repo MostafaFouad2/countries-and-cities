@@ -1,0 +1,23 @@
+{
+    "No Countries Found": {
+        "ar": "لم يتم اضافة دول حتى الأن"
+    },
+    "No Country Found with this Id": {
+        "ar": "لا توجد هذه الدولة"
+    },
+    "No Cities in this Country Found": {
+        "ar": "لا توجد مدن فى هذه الدولة"
+    },
+    "Address was deleted successfully": {
+        "ar": "تم الحذف بنجاح"
+    },
+    "you can not turn the country into city or vice versa":{
+        "ar": "لا تستطيع تحويل المدينة الى دولة هو العكس"
+    },
+    "citey was created successfully!":{
+        "ar": "تمت الأضافة بنجاح"
+    },
+    "country was created successfully!":{
+        "ar": "تمت الأضافة بنجاح"
+    }
+}
